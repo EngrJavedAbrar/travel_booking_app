@@ -40,10 +40,10 @@ A Flutter-based travel booking app that allows users to explore popular destinat
 ## Screenshots
 
 ### Home Screen
-![Home Screen](https://github.com/your-username/your-repo-name/raw/main/assets/screenshots/home_screen.png)
+![Home Screen](https://github.com/EngrJavedAbrar/travel_booking_app/raw/main/assets/home_screen.png)
 
 ### Detail Screen
-![Detail Screen](https://github.com/your-username/your-repo-name/raw/main/assets/screenshots/detail_screen.png)
+![Detail Screen](https://github.com/EngrJavedAbrar/travel_booking_app/raw/main/assets/details_screen.png)
 
 ## Technologies Used
 - **Flutter**: For building the cross-platform app.
