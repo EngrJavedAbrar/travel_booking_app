@@ -3,6 +3,7 @@
 AI Prompt Use to create this poject:
 
 Travel Booking App
+
 Objective: 
 Design a travel booking app UI with the following features:
 
