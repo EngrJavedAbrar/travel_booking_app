@@ -21,4 +21,39 @@ Design a travel booking app UI with the following features:
 
 Key Widgets to Use:
 
-    ListView, GridView, PageView, BottomNavigationBar, Hero (for animations).
+    ListView, GridView, PageView, BottomNavigationBar, Hero (for animations).  // Prompt ended
+
+   
+
+
+# Travel Booking App
+
+A Flutter-based travel booking app that allows users to explore popular destinations, view details, and save their favorite places.
+
+## Features
+- **Search Bar**: Search for destinations.
+- **Popular Destinations**: View a list of popular destinations with images, names, and prices.
+- **Destination Details**: View detailed information about each destination, including a gallery, point-wise description, and a booking button.
+- **Favorites**: Save your favorite destinations for quick access.
+- **Smooth Animations**: Hero animations for seamless transitions between screens.
+
+## Screenshots
+
+### Home Screen
+![Home Screen](https://github.com/your-username/your-repo-name/raw/main/assets/screenshots/home_screen.png)
+
+### Detail Screen
+![Detail Screen](https://github.com/your-username/your-repo-name/raw/main/assets/screenshots/detail_screen.png)
+
+## Technologies Used
+- **Flutter**: For building the cross-platform app.
+- **Dart**: The programming language used.
+- **Hero Animations**: For smooth transitions between screens.
+- **ClipRRect**: For rounded corner images in the detail screen.
+
+## How to Run
+Follow these steps to set up and run the project on your local machine:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/EngrJavedAbrar/travel_booking_app.git
