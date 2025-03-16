@@ -1,16 +1,23 @@
-# old_papers_app
+# travel_booking_app
 
-A new Flutter project.
+AI Prompt Use to create this poject:
 
-## Getting Started
+# Travel Booking App
+Objective: 
+Design a travel booking app UI with the following features:
 
-This project is a starting point for a Flutter application.
+    A home screen with a search bar for destinations.
 
-A few resources to get you started if this is your first Flutter project:
+    A list of popular destinations with images, names, and prices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    A details screen for each destination (include a gallery, description, and booking button).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Details screen should have rounded corner display image for beautiful look and Point wise detail about every destination.
+
+    Add a bottom navigation bar with tabs for Home, Favorites, and Bookings.
+
+    Include a "Favorites" section where users can save destinations.
+
+Key Widgets to Use:
+
+    ListView, GridView, PageView, BottomNavigationBar, Hero (for animations).
